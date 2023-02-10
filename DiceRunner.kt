@@ -1,6 +1,3 @@
-package org.example
-import org.example.Die as Die
-class DiceRunner{
 fun main() {
 
     val d6 = Die()
@@ -50,5 +47,4 @@ fun main() {
         rolls++
     }
     println("It took $rolls rolls to get 5 of a kind.")
-}
 }
