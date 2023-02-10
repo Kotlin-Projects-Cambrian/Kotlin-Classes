@@ -1,6 +1,4 @@
-//package org.example
 import kotlin.random.Random
-
 class Die {
     var type: String
     var sides: Int
